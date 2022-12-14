@@ -6,6 +6,11 @@
 
 ## Instructions here:
 
+Update:
+
+* Make sure to run `setup.sh` script before the instructions provided.
+* Instead of `vagrant up`, use `vagrant up --provide virtualbox`
+
 https://pythops.com/post/create-your-own-image-for-jetson-nano-board.html
 
 ## Spec:
